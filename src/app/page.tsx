@@ -1,7 +1,6 @@
 "use client";
-import { useState } from "react";
-import TicketForm from "./components/TicketForm";
 import Link from "next/link";
+import TicketForm from "./components/TicketForm";
 
 export default function Home() {
   return (
